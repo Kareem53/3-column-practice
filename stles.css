@@ -58,8 +58,3 @@ h1, h2, h3, h4, h5, h6{
     background-color: hsl(179, 100%, 13%);
     color: hsl(0, 0%, 95%);
 }
-@media (max-width:485px){
-    .col{
-        background-color: red;
-    }
-}
